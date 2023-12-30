@@ -8,7 +8,7 @@ Backend Developer
 * ✉️  You can contact me at [stefanbvts@gmail.com](mailto:stefanbvts@gmail.com)
 * 🧠  I'm learning .NET Framework
 
-### Skills
+# Skills
 
 
 <p align="left">
