@@ -5,7 +5,7 @@ Backend Developer
 -----------------
 
 * 🌍  I'm based in Subotica, Serbia
-* ✉️  You can contact me at [stefanbvts@gmail.com](mailto:stefanbvts@gmail.com)
+* ✉️  You can contact me at [stefanbvts@gmail.com](mailto:buljic77@gmail.com)
 * 🧠  I'm learning .NET Framework
 
 ### Skills
